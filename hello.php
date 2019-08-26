@@ -1,3 +1,4 @@
 <?php
-echo "Hello Jas";
+echo "Hello Jas, Percubaan";
+echo 1+1;
 ?>
